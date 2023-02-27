@@ -1,2 +1,1 @@
-
-Ice is a worldwide online videogame store. It has provided us with a dataset of videogames with their characteristics and their sales. We will determine what makes a successfull game. This information will help Ice with their advertising campaigns.
+**Ice** is a worldwide online videogame store. It has provided us with a dataset of videogames with their characteristics and their sales. We will determine what makes a successfull game. This information will help Ice with their advertising campaigns.
